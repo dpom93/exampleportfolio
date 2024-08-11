@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- Links
+- [Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring)
 
 ### Project 2
 - Description
